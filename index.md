@@ -73,8 +73,8 @@ vacations home. They stayed 28 years. Happily!
 <table style="width: 1250;"  cellpadding="10">
 <tbody>
 <tr>
-<td><img src="JB_shoes.jpg" width="600" height="257" alt="" title="" /></td>
-<td><img src="JB_patio.jpg" width="600" height="257" alt="" title="" /></td>
+<td><img src="https://westshore.github.io/LakeHouse/JB_shoes.jpg" width="600" height="257" alt="" title="" /></td>
+<td><img src="https://westshore.github.io/LakeHouse/JB_patio.jpg" width="600" height="257" alt="" title="" /></td>
 </tr>
 </tbody>
 </table>	
@@ -106,8 +106,8 @@ live it, year round.
 </table></center>
 
 <center><table style="width: 1250;"  cellpadding="10"><tbody><tr>
-<td><img src="b_01.jpg" width="600" height="337" alt="" title="" /></td>
-<td><img src="a_01.jpg" width="600" height="337" alt="" title="" /></td>
+<td><img src="https://westshore.github.io/LakeHouse/b_01.jpg" width="600" height="337" alt="" title="" /></td>
+<td><img src="https://westshore.github.io/LakeHouse/a_01.jpg" width="600" height="337" alt="" title="" /></td>
 </tr></tbody></table></center>
 <center><table class="tg"><tr><th class="tg-0lax"><font size=4>
 The Resort's video screen shots are on the right and are sequential. The video starts 
@@ -120,8 +120,8 @@ to see. The Ravenna Balloon Affair flying over the lake is a site.
 <br><br></th></tr></table></center>
 
 <center><table style="width: 1250;"  cellpadding="10"><tbody><tr>
-<td><img src="b_03.jpg" width="600" height="337" alt="" title="" /></td>
-<td><img src="a_03.jpg" width="600" height="337" alt="" title="" /></td>
+<td><img src="https://westshore.github.io/LakeHouse/b_03.jpg" width="600" height="337" alt="" title="" /></td>
+<td><img src="https://westshore.github.io/LakeHouse/a_03.jpg" width="600" height="337" alt="" title="" /></td>
 </tr></tbody></table></center>
 <center><table class="tg"><tr><th class="tg-0lax"><font size=4>
 The Resort's commercial dock and the Lake House's residential dock. Are both fun? Most 
@@ -149,7 +149,7 @@ per use.
 <br><br></th></tr></table></center>
 
 <center><table style="width: 1250;"  cellpadding="10"><tbody><tr>
-<td><img src="a_04.jpg" width="600" height="337" alt="" title="" /></td>
+<td><img src="https://westshore.github.io/LakeHouse/a_04.jpg" width="600" height="337" alt="" title="" /></td>
 </tr></tbody></table></center>
 <center><table class="tg"><tr><th class="tg-0lax"><font size=4>
 The Lake House's upstairs has a separate kitchen, bathroom and room for two adults, or 
@@ -160,8 +160,8 @@ per month. That'd pay for the mortgage.
 <br><br></th></tr></table></center>
 
 <center><table style="width: 1250;"  cellpadding="10"><tbody><tr>
-<td><img src="b_05.jpg" width="600" height="337" alt="" title="" /></td>
-<td><img src="a_05.jpg" width="600" height="337" alt="" title="" /></td>
+<td><img src="https://westshore.github.io/LakeHouse/b_05.jpg" width="600" height="337" alt="" title="" /></td>
+<td><img src="https://westshore.github.io/LakeHouse/a_05.jpg" width="600" height="337" alt="" title="" /></td>
 </tr></tbody></table></center>
 <center><table class="tg"><tr><th class="tg-0lax"><font size=4>
 If you could only choose one, which would you take? Over 52 weeks at the Lake House or 1 
@@ -174,8 +174,8 @@ of the times we went boating, we should have been cutting the grass instead."
 <br><br></th></tr></table></center>
 
 <center><table style="width: 1250;"  cellpadding="10"><tbody><tr>
-<td><img src="b_07.jpg" width="600" height="337" alt="" title="" /></td>
-<td><img src="a_07.jpg" width="600" height="337" alt="" title="" /></td>
+<td><img src="https://westshore.github.io/LakeHouse/b_07.jpg" width="600" height="337" alt="" title="" /></td>
+<td><img src="https://westshore.github.io/LakeHouse/a_07.jpg" width="600" height="337" alt="" title="" /></td>
 </tr></tbody></table></center>
 <center><table class="tg"><tr><th class="tg-0lax"><font size=4>
 It was night out when I was doing this webpage, so I went ahead and took the Jacuzzi's 
@@ -186,8 +186,8 @@ to 'monitor' the plumbing in winter or on winter vacations.
 <br><br></th></tr></table></center>
 
 <center><table style="width: 1250;"  cellpadding="10"><tbody><tr>
-<td><img src="b_08.jpg" width="600" height="337" alt="" title="" /></td>
-<td><img src="a_08.jpg" width="600" height="337" alt="" title="" /></td>
+<td><img src="https://westshore.github.io/LakeHouse/b_08.jpg" width="600" height="337" alt="" title="" /></td>
+<td><img src="https://westshore.github.io/LakeHouse/a_08.jpg" width="600" height="337" alt="" title="" /></td>
 </tr></tbody></table></center>
 <center><table class="tg"><tr><th class="tg-0lax"><font size=4>
 The one indoor shot of the Resort's bungalows looks similar to the Lake House's upstairs. 
@@ -195,8 +195,8 @@ It'll likely be glossed too when the house is cleared, cleaned and painted.
 <br><br></th></tr></table></center>
 
 <center><table style="width: 1250;"  cellpadding="10"><tbody><tr>
-<td><img src="b_09.jpg" width="600" height="337" alt="" title="" /></td>
-<td><img src="a_09.jpg" width="600" height="337" alt="" title="" /></td>
+<td><img src="https://westshore.github.io/LakeHouse/b_09.jpg" width="600" height="337" alt="" title="" /></td>
+<td><img src="https://westshore.github.io/LakeHouse/a_09.jpg" width="600" height="337" alt="" title="" /></td>
 </tr></tbody></table></center>
 <center><table class="tg"><tr><th class="tg-0lax"><font size=4>
 The video then goes to a different angle from the water of the Resort. The Resort looks 
@@ -207,8 +207,8 @@ warmer than say the east shore.
 <br><br></th></tr></table></center>
 
 <center><table style="width: 1250;"  cellpadding="10"><tbody><tr>
-<td><img src="b_10.jpg" width="600" height="337" alt="" title="" /></td>
-<td><img src="a_10.jpg" width="600" height="337" alt="" title="" /></td>
+<td><img src="https://westshore.github.io/LakeHouse/b_10.jpg" width="600" height="337" alt="" title="" /></td>
+<td><img src="https://westshore.github.io/LakeHouse/a_10.jpg" width="600" height="337" alt="" title="" /></td>
 </tr></tbody></table></center>
 <center><table class="tg"><tr><th class="tg-0lax"><font size=4>
 The Resort packed them in for scuba diving. The pontoon boat has been packed too. Like 9 or 
@@ -241,8 +241,8 @@ easier to surf with a large board than a small one.
 <br><br></th></tr></table></center>
 
 <center><table style="width: 1250;"  cellpadding="10"><tbody><tr>
-<td><img src="b_11.jpg" width="600" height="337" alt="" title="" /></td>
-<td><img src="a_11.jpg" width="600" height="337" alt="" title="" /></td>
+<td><img src="https://westshore.github.io/LakeHouse/b_11.jpg" width="600" height="337" alt="" title="" /></td>
+<td><img src="https://westshore.github.io/LakeHouse/a_11.jpg" width="600" height="337" alt="" title="" /></td>
 </tr></tbody></table></center>
 <center><table class="tg"><tr><th class="tg-0lax"><font size=4>
 There are four sets of swim fins and two sets of kick fins on the boat and in the dock box. 
@@ -259,8 +259,8 @@ the beach, dock or boat.
 <br><br></th></tr></table></center>
 
 <center><table style="width: 1250;"  cellpadding="10"><tbody><tr>
-<td><img src="b_12.jpg" width="600" height="337" alt="" title="" /></td>
-<td><img src="a_12.jpg" width="600" height="337" alt="" title="" /></td>
+<td><img src="https://westshore.github.io/LakeHouse/b_12.jpg" width="600" height="337" alt="" title="" /></td>
+<td><img src="https://westshore.github.io/LakeHouse/a_12.jpg" width="600" height="337" alt="" title="" /></td>
 </tr></tbody></table></center>
 <center><table class="tg"><tr><th class="tg-0lax"><font size=4>
 A wonderful aspect of the lake at this latitude is the absence of aquatic animals that can 
@@ -274,8 +274,8 @@ big as 3-4 feet, but they're harmless.
 <br><br></th></tr></table></center>
 
 <center><table style="width: 1250;"  cellpadding="10"><tbody><tr>
-<td><img src="b_14.jpg" width="600" height="337" alt="" title="" /></td>
-<td><img src="a_14.jpg" width="600" height="337" alt="" title="" /></td>
+<td><img src="https://westshore.github.io/LakeHouse/b_14.jpg" width="600" height="337" alt="" title="" /></td>
+<td><img src="https://westshore.github.io/LakeHouse/a_14.jpg" width="600" height="337" alt="" title="" /></td>
 </tr></tbody></table></center>
 <center><table class="tg"><tr><th class="tg-0lax"><font size=4>
 This Lake's answer to the Resort's snorkeling spot is circled in red (North is left). It's 
@@ -284,8 +284,8 @@ boating destination and it can actually get crowded with pontoons, etc. on holid
 <br><br></th></tr></table></center>
 
 <center><table style="width: 1250;"  cellpadding="10"><tbody><tr>
-<td><img src="b_15.jpg" width="600" height="337" alt="" title="" /></td>
-<td><img src="a_15.jpg" width="600" height="337" alt="" title="" /></td>
+<td><img src="https://westshore.github.io/LakeHouse/b_15.jpg" width="600" height="337" alt="" title="" /></td>
+<td><img src="https://westshore.github.io/LakeHouse/a_15.jpg" width="600" height="337" alt="" title="" /></td>
 </tr></tbody></table></center>
 <center><table class="tg"><tr><th class="tg-0lax"><font size=4>
 The Resort's video then shows a small catamaran sailboat. On the Lake, there's only one 
@@ -300,8 +300,8 @@ multiply too. Perhaps you'll have to swap your lawn mower for a golf cart.
 <br><br></th></tr></table></center>
 
 <center><table style="width: 1250;"  cellpadding="10"><tbody><tr>
-<td><img src="a_16.jpg" width="600" height="337" alt="" title="" /></td>
-<td><img src="a_17-18.jpg" width="600" height="337" alt="" title="" /></td>
+<td><img src="https://westshore.github.io/LakeHouse/a_16.jpg" width="600" height="337" alt="" title="" /></td>
+<td><img src="https://westshore.github.io/LakeHouse/a_17-18.jpg" width="600" height="337" alt="" title="" /></td>
 </tr></tbody></table></center>
 <center><table class="tg"><tr><th class="tg-0lax"><font size=4>
 Both shots are from the video, with standard "resort" amenities. I've chopped plenty of 
@@ -311,8 +311,8 @@ row of nurses. Everyone is as nice as can be.
 <br><br></th></tr></table></center>
 
 <center><table style="width: 1250;"  cellpadding="10"><tbody><tr>
-<td><img src="b_19.jpg" width="600" height="337" alt="" title="" /></td>
-<td><img src="a_19.jpg" width="600" height="337" alt="" title="" /></td>
+<td><img src="https://westshore.github.io/LakeHouse/b_19.jpg" width="600" height="337" alt="" title="" /></td>
+<td><img src="https://westshore.github.io/LakeHouse/a_19.jpg" width="600" height="337" alt="" title="" /></td>
 </tr></tbody></table></center>
 <center><table class="tg"><tr><th class="tg-0lax"><font size=4>
 I regularly went down a sidestreet in Kent and this one new homeowner kept having a BBQ 
@@ -339,8 +339,8 @@ Grill the fish and cut a pineapple. Viola! Or just order a pizza delivered to th
 <br><br></th></tr></table></center>
 
 <center><table style="width: 1250;"  cellpadding="10"><tbody><tr>
-<td><img src="a_21.jpg" width="600" height="337" alt="" title="" /></td>
-<td><img src="a_20.jpg" width="600" height="337" alt="" title="" /></td>
+<td><img src="https://westshore.github.io/LakeHouse/a_21.jpg" width="600" height="337" alt="" title="" /></td>
+<td><img src="https://westshore.github.io/LakeHouse/a_20.jpg" width="600" height="337" alt="" title="" /></td>
 </tr></tbody></table></center>
 <center><table class="tg"><tr><th class="tg-0lax"><font size=4>
 Both fly fishing shots are from the Resort's video. There's one fly fishing rod, two trolling 
@@ -356,7 +356,7 @@ living under the dock, it'll even eat out of your fingers. That can hurt a littl
 <br><br></th></tr></table></center>
 
 <center><table style="width: 1250;"  cellpadding="10"><tbody><tr>
-<td><img src="a_22.jpg" width="600" height="337" alt="" title="" /></td>
+<td><img src="https://westshore.github.io/LakeHouse/a_22.jpg" width="600" height="337" alt="" title="" /></td>
 </tr></tbody></table></center>
 <center><table class="tg"><tr><th class="tg-0lax"><font size=4>
 There aren't many pools around the lake because it's freshwater not saltwater. If you want 
@@ -372,8 +372,8 @@ to float across the lake and bodyboarding with fins.
 <br><br></th></tr></table></center>
 
 <center><table style="width: 1250;"  cellpadding="10"><tbody><tr>
-<td><img src="b_23.jpg" width="600" height="337" alt="" title="" /></td>
-<td><img src="a_23.jpg" width="600" height="337" alt="" title="" /></td>
+<td><img src="https://westshore.github.io/LakeHouse/b_23.jpg" width="600" height="337" alt="" title="" /></td>
+<td><img src="https://westshore.github.io/LakeHouse/a_23.jpg" width="600" height="337" alt="" title="" /></td>
 </tr></tbody></table></center>
 <center><table class="tg"><tr><th class="tg-0lax"><font size=4>
 Swings - no big deal. Swings on beaches with your honey - priceless.
@@ -388,8 +388,8 @@ is extraordinary. It's beautiful.
 <br><br></th></tr></table></center>
 
 <center><table style="width: 1250;"  cellpadding="10"><tbody><tr>
-<td><img src="b_24.jpg" width="600" height="337" alt="" title="" /></td>
-<td><img src="a_24.jpg" width="600" height="337" alt="" title="" /></td>
+<td><img src="https://westshore.github.io/LakeHouse/b_24.jpg" width="600" height="337" alt="" title="" /></td>
+<td><img src="https://westshore.github.io/LakeHouse/a_24.jpg" width="600" height="337" alt="" title="" /></td>
 </tr></tbody></table></center>
 <center><table class="tg"><tr><th class="tg-0lax"><font size=4>
 They're not mutually exclusive but which would you rather have: A volleyball net set up on 
@@ -398,8 +398,8 @@ Giant fires on the ice are fun too.
 <br><br></th></tr></table></center>
 
 <center><table style="width: 1250;"  cellpadding="10"><tbody><tr>
-<td><img src="b_25.jpg" width="600" height="337" alt="" title="" /></td>
-<td><img src="a_25.jpg" width="600" height="337" alt="" title="" /></td>
+<td><img src="https://westshore.github.io/LakeHouse/b_25.jpg" width="600" height="337" alt="" title="" /></td>
+<td><img src="https://westshore.github.io/LakeHouse/a_25.jpg" width="600" height="337" alt="" title="" /></td>
 </tr></tbody></table></center>
 <center><table class="tg"><tr><th class="tg-0lax"><font size=4>
 The Resort's outdoor bar and the Lake House's 'juice bar'. The juice bar is countertop 
@@ -416,7 +416,7 @@ at least one entire Summer off to vacation at their own Lake House.
 <br><br></th></tr></table></center>
 
 <center><table style="width: 1250;"  cellpadding="0"><tbody><tr>
-<td><img src="h_144.jpg" width="1250" height="254" alt="" title="" /></td>
+<td><img src="https://westshore.github.io/LakeHouse/h_144.jpg" width="1250" height="254" alt="" title="" /></td>
 </tr></tbody></table></center>
 <center><table class="tg"><tr><th class="tg-0lax"><font size=4>
 The last house sold on Westshore Drive, on the lake with a beach, a dock and a boat was 6436 
@@ -453,8 +453,8 @@ So, do you risk waiting until everything is beautiful?
 <br><br></th></tr></table></center>
 
 <center><table style="width: 1250;"  cellpadding="10"><tbody><tr>
-<td><img src="h_200.jpg" width="600" height="397" alt="" title="" /></td>
-<td><img src="h_mil.jpg" width="600" height="397" alt="" title="" /></td>
+<td><img src="https://westshore.github.io/LakeHouse/h_200.jpg" width="600" height="397" alt="" title="" /></td>
+<td><img src="https://westshore.github.io/LakeHouse/h_mil.jpg" width="600" height="397" alt="" title="" /></td>
 </tr></tbody></table></center>
 <center><table class="tg"><tr><th class="tg-0lax"><font size=4>
 This under $200k Lake House looks a lot more like a million dollar plus house on Martha's 
@@ -467,7 +467,7 @@ say an auto manufacturer.
 
 <center><table style="width: 1250;"  cellpadding="10"><tbody><tr>
 <td>
-<a href="My_Lake.html"><img src="My_Lake_thumbnails.jpg" width="886" height="487" alt="Click to see these full size." title="" /></a>
+<a href="My_Lake.html"><img src="https://westshore.github.io/LakeHouse/My_Lake_thumbnails.jpg" width="886" height="487" alt="Click to see these full size." title="" /></a>
 </td>
 </tr></tbody></table></center>
 <center><table class="tg"><tr><th class="tg-0lax"><font size=4>
